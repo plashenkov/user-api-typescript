@@ -1,6 +1,6 @@
 {
   "name": "zadarma-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Zadarma API client library for TypeScript / JavaScript",
   "main": "./dist/zadarma.cjs.js",
   "module": "./dist/zadarma.es.js",
